@@ -30,5 +30,9 @@
 </strong>
 -<h3>#10.diskmanage</h3>
 -<strong> Opens Disk Manager to do format the Disk , merge etc and has funtionalities of GParted in CLI</strong>
-
+-<h3>#11.INSTALL</h3>
+-<strong>Installs AliceDOS</strong>
  
+ 
+ Commands to be added for Full funtionality 
+ AliceDOS
