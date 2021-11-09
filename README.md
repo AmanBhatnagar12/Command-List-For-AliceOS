@@ -34,5 +34,9 @@
 -<strong>Installs AliceDOS</strong>
  
  
- Commands to be added for Full funtionality 
- AliceDOS
+ 
+ 
+ <em>Commands to be added for Full funtionality</em> 
+
+
+   <strong>AliceDOS</strong>
