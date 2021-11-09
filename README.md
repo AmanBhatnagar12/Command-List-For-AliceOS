@@ -22,13 +22,13 @@
 -<strong>
     Kill Processes
 </strong>
--<h3>
+-<h3>#9.
     taskmanager
 </h3>
 -<strong>
     To manage tasks like Force Quit an App etc
 </strong>
--<h3>diskmanage</h3>
+-<h3>#10.diskmanage</h3>
 -<strong> Opens Disk Manager to do format the Disk , merge etc and has funtionalities of GParted in CLI</strong>
 
  
