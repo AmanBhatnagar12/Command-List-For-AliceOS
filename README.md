@@ -29,14 +29,23 @@
     To manage tasks like Force Quit an App etc
 </strong>
 -<h3>#10.diskmanage</h3>
+
 -<strong> Opens Disk Manager to do format the Disk , merge etc and has funtionalities of GParted in CLI</strong>
 -<h3>#11.INSTALL</h3>
 -<strong>Installs AliceDOS</strong>
+
  
  
- 
+ ########
  
  <em>Commands to be added for Full funtionality</em> 
+----------------------------------
 
+   <strong>AliceOS Classic </strong>
+-----------------------------
 
-   <strong>AliceDOS</strong>
+## Developers 
+<ol>
+<li>Aman</li>
+ <li>Pranav</li>
+ </ol>
