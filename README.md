@@ -38,14 +38,12 @@
  
  ########
  
- <em>Commands to be added for Full funtionality</em> 
-----------------------------------
-
-   <strong>AliceOS Classic </strong>
+ **Commands to be added for Full funtionality**
+-----------------------------
+AliceOS Classic
 -----------------------------
 
-## Developers 
-<ol>
-<li>Aman</li>
- <li>Pranav</li>
- </ol>
+## Developers HUh ? Maybe in future .
+
+ @.Aman 
+ @.Pranav 
